@@ -47,7 +47,6 @@
     "node-cron": "^3.0.2",
     "node-fetch": "^3.3.2",
     "node-fetch-commonjs": "^3.3.1",
-    "nodemon": "^3.0.1",
     "openai": "^4.28.0",
     "otp-generator": "^4.0.1",
     "parse-csv-stream": "^2.0.2",
